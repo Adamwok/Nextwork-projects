@@ -1,6 +1,7 @@
 # NextWork.ai - Portfolio Projektów
 
 Zbiór projektów zrealizowanych w ramach ścieżek edukacyjnych na platformie NextWork.ai
+Dokumentacja techniczna jest generowana i przechowywana w dedykowanych plikach `README.md` wewnątrz każdego projektu.
 
 ## Indeks Projektów
 
