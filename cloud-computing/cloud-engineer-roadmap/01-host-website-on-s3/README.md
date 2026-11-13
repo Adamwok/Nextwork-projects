@@ -1,3 +1,13 @@
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://nextwork.ai/static/nextwork-logo-paper.svg" /><img src="https://nextwork.ai/static/nextwork-logo-leather.svg" alt="NextWork" width="300" /></picture>
+
+# Host a Website on Amazon S3
+
+**Project Link:** [View Project](https://nextwork.ai/projects/70e2d059-31ab-5f67-8c58-f5edbd451140)
+
+**Author:** Adam
+
+---
+
 ## Introducing Today's Project!
 
 ### Project overview
